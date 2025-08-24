@@ -1,32 +1,32 @@
 ANOMALY DETECTION SUMMARY REPORT
 ==================================================
-Generated: 2025-08-24 19:03:27
+Generated: 2025-08-24 21:23:43
 Total points: 26,400
 Time range: 2004-01-01 00:00:00 to 2004-01-19 07:59:00
 
 SCORE STATISTICS:
-Mean: 41.279
-Median: 8.933
-Std Dev: 42.928
-Min: 4.500
+Mean: 41.328
+Median: 8.954
+Std Dev: 42.960
+Min: 4.590
 Max: 100.000
 95th percentile: 100.000
 
 SCORE BANDS:
-Normal   ( 0- 10): 15,248 ( 57.8%)
-Low      (10- 30):  1,206 (  4.6%)
-Medium   (30- 60):    410 (  1.6%)
-High     (60- 90):    890 (  3.4%)
-Severe   (90-100):  8,646 ( 32.8%)
+Normal   ( 0- 10): 15,209 ( 57.6%)
+Low      (10- 30):  1,249 (  4.7%)
+Medium   (30- 60):    405 (  1.5%)
+High     (60- 90):    853 (  3.2%)
+Severe   (90-100):  8,684 ( 32.9%)
 
 TOP 10 FEATURES:
- 1. ReactorCoolingWaterFlow        : 6,902 ( 3.9%)
- 2. CondenserCoolingWaterFlow      : 6,242 ( 3.5%)
- 3. ComponentF6                    : 6,114 ( 3.5%)
+ 1. ReactorCoolingWaterFlow        : 6,903 ( 3.9%)
+ 2. CondenserCoolingWaterFlow      : 6,292 ( 3.6%)
+ 3. ComponentF6                    : 6,245 ( 3.5%)
  4. TotalFeedFlowStream4           : 5,964 ( 3.4%)
- 5. StripperUnderflowStream11      : 5,615 ( 3.2%)
- 6. ComponentF9                    : 5,588 ( 3.2%)
- 7. SeparatorCoolingWaterOutletTem : 5,331 ( 3.0%)
- 8. RecycleFlowStream8             : 5,318 ( 3.0%)
- 9. ReactorTemperatureDegC         : 5,166 ( 2.9%)
-10. ComponentB6                    : 5,115 ( 2.9%)
+ 5. StripperUnderflowStream11      : 5,675 ( 3.2%)
+ 6. ComponentF9                    : 5,504 ( 3.1%)
+ 7. SeparatorCoolingWaterOutletTem : 5,374 ( 3.0%)
+ 8. RecycleFlowStream8             : 5,372 ( 3.0%)
+ 9. ReactorTemperatureDegC         : 5,136 ( 2.9%)
+10. ComponentB6                    : 5,089 ( 2.9%)
